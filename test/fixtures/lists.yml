@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  l_id: MyString
+  marks: MyString
+  pass: MyString
+  fail: MyString
+
+two:
+  l_id: MyString
+  marks: MyString
+  pass: MyString
+  fail: MyString

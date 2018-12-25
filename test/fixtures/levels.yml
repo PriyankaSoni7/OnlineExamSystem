@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  id: MyString
+  fresher: MyString
+  intermediate: MyString
+  experienced: MyString
+
+two:
+  id: MyString
+  fresher: MyString
+  intermediate: MyString
+  experienced: MyString
